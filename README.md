@@ -16,9 +16,9 @@ She accepts 4 commnds:
 
 ```// Example Code.
 
-liri-node-app user$  node liri.js spotify-this-song "Wish you were here"...
+liri-node-app user$  node liri.js spotify-this-song "Wish you were here" 
 
-// Returns : 
+// Returns : ... 
 
 Title: Wish You Were Here
 Artist: Pink Floyd
@@ -29,4 +29,4 @@ Preview Link: https://p.scdn.co/mp3-preview/7ce0d4e5f0ffcf8fe1a312c9c2f9331c8d2b
 ```
 Enjoy! 
 
--Come Find me at [Andrew E Fellman](https://www.andrewefellman.com)
+-Come Find me at [Andrew E Fellman](http://www.andrewefellman.com)

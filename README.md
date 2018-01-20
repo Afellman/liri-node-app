@@ -29,4 +29,4 @@ Preview Link: https://p.scdn.co/mp3-preview/7ce0d4e5f0ffcf8fe1a312c9c2f9331c8d2b
 ```
 Enjoy! 
 
--Andrew     Find me at [Andrew E Fellman](https://www.andrewefellman.com)
+-Come Find me at [Andrew E Fellman](https://www.andrewefellman.com)
